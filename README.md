@@ -9,6 +9,7 @@ This guide provides all the steps needed to configure a personal WireGuard VPN s
 ### 1. Install WireGuard
 Connect to your VPS via SSH and install the necessary packages.
 ```bash
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 sudo apt update
 sudo apt upgrade -y
 sudo apt install wireguard -y
